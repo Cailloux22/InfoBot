@@ -82,7 +82,7 @@ const job = new CronJob(
   }, // onTick
   null, // onComplete
   true, // start
-  'America/Los_Angeles' // timeZone
+  'Europe/Paris' // timeZone
 );
 
 
